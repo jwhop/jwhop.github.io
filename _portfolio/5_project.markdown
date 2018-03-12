@@ -3,6 +3,7 @@ layout: post
 title: BLOOM
 description: an original UNITY game
 img: /img/1.jpg
+redirect: https://jwhop.itch.io/bloom
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
