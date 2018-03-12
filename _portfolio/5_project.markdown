@@ -2,7 +2,7 @@
 layout: post
 title: BLOOM
 description: an original UNITY game
-img: /img/1.jpg
+img: /img/BloomIcon.png
 redirect: https://jwhop.itch.io/bloom
 ---
 
