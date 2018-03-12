@@ -9,7 +9,7 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 
 
 <div class="img_row">
-	<img class="col one" src="/img/AnErrorHasOccured1.png" alt="" title="Screenshot 1"/>
+	<img class="col one" src="/img/AnErrorHasOccured1.png" alt=">
 	<img class="col one" src="/img/AnErrorHasOccured2.png" alt="" title="Screenshot 2"/>
 	<img class="col one" src="/img/AnErrorHasOccured3.png" alt="" title="Screenshot 3"/>
 </div>
