@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Jonny Hopkins
+email: jwhopkins@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+ Computer Graphics, Game Development, 3D Art + Animation
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: jwhopkin
+github_username:  jwhop
 
 # Build settings
 markdown: kramdown
