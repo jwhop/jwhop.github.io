@@ -2,7 +2,7 @@
 layout: post
 title: Passage
 description: a custom hardware DOOM Mod 
-img: /img/Passage1
+img: /img/Passage1.jpg
 ---
 
 The final project for my TCS 198: Modding class, "Passage" is a complete transformation of the 1993 PC game "DOOM". The game features an original controller, textures, and sprites. The game features the player walking around in a Target retail store with nothing but a tape recorder interacting with the deer roaming around the store. My inspiration with this project was taking a completely human-made space and having the player passively listen to the nature that has taken over it. As an addition to the game I have re-purposed a cassette recorder to act as the controller for the game, using an Arduino Uno chip and Processing program to simulate different key-presses and mouse commands used within the game. The cassette also maintained its functional motor and changes depending on which button the player presses. 
