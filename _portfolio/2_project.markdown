@@ -9,9 +9,9 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/AnErrorHasOccured1.png" alt="" title="Screenshot 1"/>
-	<img class="col one" src="{{ site.baseurl }}/AnErrorHasOccured2.png" alt="" title="Screenshot 2"/>
-	<img class="col one" src="{{ site.baseurl }}/AnErrorHasOccured3.png" alt="" title="Screenshot 3"/>
+	<img class="col one" src="/img/AnErrorHasOccured1.png" alt="" title="Screenshot 1"/>
+	<img class="col one" src="/img/AnErrorHasOccured2.png" alt="" title="Screenshot 2"/>
+	<img class="col one" src="/img/AnErrorHasOccured3.png" alt="" title="Screenshot 3"/>
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
