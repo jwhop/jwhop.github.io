@@ -2,7 +2,7 @@
 layout: post
 title: An Error Has Occurred
 description: a virtual reality art installation
-img: /img/2.jpg
+img: /img/2.png
 ---
 
 An Error has occured is a single player virtual reality art installation reflecting on Anne Friedberg's 2006 book "The Virtual Window". The experience takes place inside a virtual space resembling the classroom that it was played in. Every 15 seconds, the player hears the Windows 95 Error noise and watches as an image of their current viewport spawns in front of them.
