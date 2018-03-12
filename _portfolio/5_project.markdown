@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: BLOOM
+description: an original UNITY game
 img: /img/1.jpg
 ---
 

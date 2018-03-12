@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: another without an image
+title: Dissociate
+description: an original DOOM mod
 img: 
 ---
 
