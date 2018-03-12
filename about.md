@@ -9,9 +9,7 @@ permalink: /about/
 <br/>
 Computer Graphics, Game Development, 3D Art + Animation at UC Davis! 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+This site is a work in progress, but new projects and blog updates will be added periodically!
 <br/>
 <hr/>
 <br/>
@@ -23,6 +21,6 @@ Link to your social media connections, too. This theme is set up to use <a href=
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	My Github is still a work in progress, but feel free to send me an email or connect with my on LinkedIn or Twitter!
 </div>
 
