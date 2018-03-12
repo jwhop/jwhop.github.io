@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: An Error Has Occurred
+description: a virtual reality art installation
 img: /img/2.jpg
 ---
 
