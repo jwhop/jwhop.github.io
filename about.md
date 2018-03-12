@@ -21,6 +21,6 @@ This site is a work in progress, but new projects and blog updates will be added
 </span>
 
 <div class="col three caption">
-	My Github is still a work in progress, but feel free to send me an email or connect with my on LinkedIn or Twitter!
+	Preferred contact through email or LinkedIn.
 </div>
 
