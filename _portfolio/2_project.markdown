@@ -9,15 +9,14 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 
 
 <div class="img_row">
-	<img class="col one" src="/img/AnErrorHasOccured1.png" alt=">
-	<img class="col one" src="/img/AnErrorHasOccured2.png" alt="" title="Screenshot 2"/>
-	<img class="col one" src="/img/AnErrorHasOccured3.png" alt="" title="Screenshot 3"/>
+	<img class="col one" src="/img/AnErrorHasOccured3.png" alt="" title="Screenshot 2"/>
+	<img class="col one" src="/img/AnErrorHasOccured4.png" alt="" title="Screenshot 3"/>
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+	<img class="col three" src="/img/AnErrorHasOccured1.png"/>
 </div>
 <div class="col three caption">
 	This image can also have a caption. It's like magic. 
@@ -27,8 +26,8 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 <div class="img_row">
-	  <img class="col two" src="/img/AnErrorHasOccured1.png"/>
-	  <img class="col one" src="/img/AnErrorHasOccured2.png"/>
+	  <img class="col two" src="/img/AnErrorHasOccured2.png"/>
+	  <img class="col one" src="/img/AnErrorHasOccured5.png"/>
 	</div>
 <div class="col three caption">
 	You can also have artistically styled 2/3 + 1/3 images, like these.
