@@ -2,25 +2,20 @@
 layout: post
 title: Passage
 description: a custom hardware DOOM Mod 
-img:
+img: /img/Passage1
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+The final project for my TCS 198: Modding class, "Passage" is a complete transformation of the 1993 PC game "DOOM". The game features an original controller, textures, and sprites. The game features the player walking around in a Target retail store with nothing but a tape recorder interacting with the deer roaming around the store. My inspiration with this project was taking a completely human-made space and having the player passively listen to the nature that has taken over it. As an addition to the game I have re-purposed a cassette recorder to act as the controller for the game, using an Arduino Uno chip and Processing program to simulate different key-presses and mouse commands used within the game. The cassette also maintained its functional motor and changes depending on which button the player presses. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+Credit Note: While the deer sprites are heavily edited and include some original alterations of it, I did not create the initial sprite used to make the other angles and frames of its animation. Additionally, I do not own the rights for the music used in the game. 
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+Download the .wad file here: https://www.doomworld.com/idgames/levels/doom/Ports/p-r/passage
+
+For more information about the project and class the project was made for, please see the following link: https://twitter.com/alt254/status/946091219687432192
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col three" src="Passage1.jpg">
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
