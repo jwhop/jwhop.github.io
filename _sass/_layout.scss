@@ -207,11 +207,12 @@ height: 230px;
 overflow: visible;
 }
 .thumbnail img{
+max-width: 100%;
+max-height: 100%;
 width: 500px;
 height: auto;
 position: relative;
-left: -5%;
-top: -5%;
+
 }
 .thumbnail a{
 float: left;
