@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hardly Working? 
-description: an original Unity Game
-img: /img/HardlyWorking.png
-redirect: https://www.behance.net/gallery/59737415/Hardly-Working
+title: Squash and Stretch  
+description: a Maya animation
+img: /img/squashandstretch.png
+redirect: https://www.behance.net/gallery/59737461/Squash-Stretch
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

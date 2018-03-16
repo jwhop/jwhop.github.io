@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hardly Working? 
-description: an original Unity Game
-img: /img/HardlyWorking.png
-redirect: https://www.behance.net/gallery/59737415/Hardly-Working
+title: Action Drives
+description: a Maya animation
+img: /img/motiongraphics.png
+redirect: https://www.behance.net/gallery/59737691/Action-Drives
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
