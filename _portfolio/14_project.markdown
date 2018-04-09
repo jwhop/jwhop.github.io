@@ -9,6 +9,7 @@ This final project in my Video Games and Culture class was an experiment accompa
 <div class="img_row">
 	<img class="col three" src="/img/BeatEmUp.png" alt="" title="Screenshot 1"/>
 
-https://drive.google.com/file/d/1PIe1mKq17gpIi0elZOvwaqV-Nd0Ch0ct/view?usp=sharing
 	
 </div>
+
+https://drive.google.com/file/d/1jU2YSfHRd6EsAgem4XAJ2RFoP26lQCrN/view?usp=sharing

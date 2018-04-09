@@ -2,7 +2,7 @@
 layout: post
 title: Character Model
 description: a 3D Model made in Maya
-img: /img/Character1.png
+img: /img/CharacterThumb.png
 redirect:
 ---
 
