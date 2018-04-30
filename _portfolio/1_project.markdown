@@ -19,6 +19,6 @@ Look Up is a work in progress virtual reality art game developed for my class me
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vjzoS74ZlxQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+Note: gameplay footage acquired using first person controller in unity for simplicity and proof of concept, VR footage will be posted when I return to the lab!
 
 As of April 2018, this game is still in progress. However, it did inspire my final project which can be accessed on my portfolio link. 
