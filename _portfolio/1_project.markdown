@@ -16,4 +16,9 @@ Look Up is a work in progress virtual reality art game developed for my class me
 	The first level finds the player in a desert with a dune in front of them, obscuring the moon. The player must climb the dune and look up to advance to the next level, a city balcony. 
 </div>
 
-As of March 7, 2018, this game is still in progress. However, it did inspire my final project which can be accessed on my portfolio link. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vjzoS74ZlxQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+As of April 2018, this game is still in progress. However, it did inspire my final project which can be accessed on my portfolio link. 
