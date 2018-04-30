@@ -25,7 +25,7 @@ Players have a chance to "enter" this reality upon the spawning of a new window 
 There is also a chance upon each spawning of the window that the player enters a new spatial reality, randomized out of three available in the game. One of them has wireframe shaders turned on, while the other has Unity's default "error" shader on, as seen in the pictures below.
 
 
-For this project, I sought to recreate my classroom in Maya as well as learn to use different textures and shaders. All of the models in the game are original and the player functions with the Steam VR plugin available for Unity. The Code allowing the game to take a screenshot of the current viewport can be found at the following link: 
+For this project, I sought to recreate my classroom in Maya as well as learn to use different textures and shaders. All of the models in the game are original and the player functions with the Steam VR plugin available for Unity. The Code allowing the game to take a screenshot of the current viewport can be found at the following link: https://answers.unity.com/questions/22954/how-to-save-a-picture-take-screenshot-from-a-camer.html
 
 
 <div class="img_row">
