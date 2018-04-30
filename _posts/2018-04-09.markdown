@@ -1,7 +1,30 @@
 ---
 layout: post
 title:  Final Project Updates + Spring Quarter Projects!
-date:   2018-04-09 10:00
-description: Old Project Additions and Changes
+date:   2018-04-29 23:30
+description: Spring Quarter Update!
 ---
-Managed to Upload a few more old projects to the portfolio section! Most still link to my Behance page, but soon I will add pages on this site for each project, along with videos of each animation or gameplay. Stay tuned for my current projects in VR, modeling, and game design!
+Hi All!
+
+I am posting now to write about the classes I am taking this quarter and the various projects I will be taking part in and concepts I am learning. 
+
+This quarter, I am taking: 
+
+- ECS 170: Artificial Intelligence
+- ECS 174: Computer Vision
+- TCS 198: Game Platforms
+- TCS 40A: Media History
+
+The artificial Intelligence is an updated take on AI taught by Professor Joshua McCoy, where we learn the many modern approaches to artificial intelligence. More specifically, 
+my classmates and I will be engaging in 5 week long group projects in which we implement concepts of artificial intelligence to the game Starcraft II. 
+
+Computer vision uses MATLAB to teach concepts in applying filters, edge detection algorithm, seam carving, object detection, clustering, and more to photos. Here I engage in these ideas with
+problem sets implementing various algorithms I learn about in class.
+
+My game platforms class involves quarter long group projects mimicking the indie game development cycle to create polished and whole game experiences using the Pico-8 fantasy console. 
+
+Lastly, media history deals with various media theorists and their interpretation of optical media through the 19th century. 
+
+
+I am excited to post about updates regarding my group's artificial intelligence project and progress on my Pico-8 team! For now, we are still in the pitching phase, but should be finding out and forming teams soon. 
+
