@@ -26,5 +26,4 @@ My game platforms class involves quarter long group projects mimicking the indie
 Lastly, media history deals with various media theorists and their interpretation of optical media through the 19th century. 
 
 
-I am excited to post about updates regarding my group's artificial intelligence project and progress on my Pico-8 team! For now, we are still in the pitching phase, but should be finding out and forming teams soon. 
-
+I am excited to post weekly updates regarding my group's artificial intelligence project and progress on my Pico-8 team! For now, we are still in the pitching phase, but should be finding out and forming teams soon. 
