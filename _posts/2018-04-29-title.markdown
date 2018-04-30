@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Final Project Updates + Spring Quarter Projects!
+title:  Spring Quarter Update
 date:   2018-04-29 23:30
-description: Spring Quarter Update!
+description: Spring Quarter Update
 ---
 Hi All!
 
