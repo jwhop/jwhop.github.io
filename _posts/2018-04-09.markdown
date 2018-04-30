@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Final Project Updates + Spring Quarter Projects!
+date:   2018-04-09 10:00
+description: Old Project Additions and Changes
+---
+Managed to Upload a few more old projects to the portfolio section! Most still link to my Behance page, but soon I will add pages on this site for each project, along with videos of each animation or gameplay. Stay tuned for my current projects in VR, modeling, and game design!
