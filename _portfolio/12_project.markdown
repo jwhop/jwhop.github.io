@@ -2,15 +2,14 @@
 layout: post
 title: Character Model
 description: a 3D Model made in Maya
-img: /img/CharacterThumb.png
+img: /img/CharacterThumb.jpg
 redirect:
 ---
 
-This work is an in progress model I have been making for my internship with the UC Davis Motion Capture Lab. The model is original and uses a working skeleton provided by the motion capture lab. Further along in the project I will be binding the skeleton to the mesh and providing blendshape animations for facial expressions and mouth positions.
+This work is a fully rigged character model made for the UC Davis Motion Capture Lab! This model has fully functional viseme blendshapes as well as a skeletal rig. 
+
+More pictures to be uploaded soon! (Note: as of Nov. 2018, the character files are on an external hard drive. I currently do not have a computer capable of rendering the model more extensively, but more pictures will be uploaded when available.)
 
 <div class="img_row">
-	<img class="col one" src="/img/Character1.png" alt="" title="Screenshot 1"/>
-	<img class="col two" src="/img/Character2.png" alt="" title="Screenshot 2"/>
-	
-	
+	<img class="col three" src="/img/full_character.jpg" alt="" title="Screenshot 1"/>	
 </div>
