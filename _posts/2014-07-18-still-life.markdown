@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: patricia_met_1.gif
+img: patricia_met_1_cropped.gif
 alt: image-alt
 project-date: December 2017
 tools: Adobe Photoshop CS5.5
