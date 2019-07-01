@@ -6,7 +6,7 @@ img: patricia_met_1.gif
 alt: penguin_cropped.gif
 thumb: patricia_met_1_cropped.gif
 project-date: December 2017
-tools: Adobe Photoshop CS5.5
+tools: Photoshop
 category: Art
 description: Piece was done using a photo to show the imagination and motion present in a still moment. Wee!
 
