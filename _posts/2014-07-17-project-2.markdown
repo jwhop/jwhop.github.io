@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: teapot_cropped.gif
+img: teapot_gif_2.gif
 alt: image-alt
 thumb: teapot_cropped.gif
 project-date: April 2014
