@@ -4,6 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: teapot_cropped.gif
 alt: image-alt
+thumb: teapot_cropped.gif
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
