@@ -8,6 +8,6 @@ alt: image-alt
 project-date: June 2017
 client: Start Bootstrap
 category: Web Development
-description: This experimental art game made in Unity was my first Unity Project. Players play as a Jellyfish searching for another of its same color through a massive cloud of other jellyfish. Credit: I did not create the models used in the game. Related Media -<a href="https://jwhop.itch.io/bloom">Release Page</a>
+description: This experimental art game made in Unity was my first project with the software. Play as a Jellyfish searching for another the same color as you! I did not create the models used. Related Media - <a href="https://jwhop.itch.io/bloom">Release Page</a>
 
 ---

@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2019
 client: Start Bootstrap
 category: Web Development
-description: This game made as a Discord bot is a standard implementation of Tetris, with one catch: the pieces fall very, very slowly. The goal of the game is to have an entire server work together in keeping the tetris game from topping out, resulting in a loss. Project to be released fully in mid July 2019!. Credit to Sam Lee for the original Tetris JavaScript implementation! My roles in this group project included concept, constructing the bot, server-side work, and improvements to the Tetris code. 
+description: This game made as a Discord bot is a standard implementation of Tetris, with one catch: the pieces fall very, very slowly. 
 
 ---
