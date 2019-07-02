@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2019-06-10
 img: teapot_gif_2.gif
 alt: image-alt
