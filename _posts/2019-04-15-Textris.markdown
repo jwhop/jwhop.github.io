@@ -2,12 +2,12 @@
 layout: default
 modal-id: 7
 date: 2017-06-17
-img: textris_gif.gif
-thumb: textris_gif.gif
+img: bloom1gif.gif
+thumb: bloomgifcropped.gif
 alt: image-alt
 project-date: June 2017
 client: Start Bootstrap
 category: Web Development
-description: This implementation of Tetris as a Discord bot has a catch: the pieces fall very, very slowly. 
+description: This experimental art game made in Unity was my first project with the software. Play as a Jellyfish searching for another the same color as you! I did not create the models used. Related Media - <a href="https://jwhop.itch.io/bloom">Release Page</a>
 
 ---
