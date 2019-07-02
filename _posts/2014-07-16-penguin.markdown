@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2019-02-28
+img: pengyfinished.gif
+thumb: penguin_cropped.gif
+alt: image-alt
+project-date: February 2019
+client: Start Bootstrap
+category: Web Development
+description: Project done to learn the fundamentals of Blender. Penguin was modeled, rigged, and animated with a snow particle system.
+
+---
