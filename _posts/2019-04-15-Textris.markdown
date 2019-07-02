@@ -2,8 +2,8 @@
 layout: default
 modal-id: 7
 date: 2017-06-17
-img: bloom1gif.gif
-thumb: bloomgifcropped.gif
+img: tetris1.gif
+thumb: tetris1.gif
 alt: image-alt
 project-date: June 2017
 client: Start Bootstrap
