@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: 6
-date: 2019-04-15
+modal-id: 7
+date: 2017-06-17
 img: textris_gif.gif
 thumb: textris_gif.gif
 alt: image-alt
-project-date: April 2019
+project-date: June 2017
 client: Start Bootstrap
 category: Web Development
-description: This game made as a Discord bot is a standard implementation of Tetris, with one catch: the pieces fall very, very slowly. 
+description: This implementation of Tetris as a Discord bot has a catch: the pieces fall very, very slowly. 
 
 ---
