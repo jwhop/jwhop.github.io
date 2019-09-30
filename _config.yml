@@ -4,7 +4,7 @@ email: jwhopkins@ucdavis.edu
 url: https://jwhop.github.io
 description: "Technical Artist and Programmer | Portfolio"
 keywords: "art, media, computer science, programming, technical art, portfolio"
-skills: "--UNDER CONSTRUCTION-- Graphics Programmer - Technical Artist - Game Designer"
+skills: "Graphics Programmer - Technical Artist - Game Designer"
 meta_author: Hopkins Jonny
 
 # Google webmaster tools
@@ -43,6 +43,8 @@ social:
     url: http://twitter.com/jwhopkin
   - title: github
     url: http://github.com/jwhop
+  - title: itch.io 
+    url: https://jwhop.itch.io/
     
 # Postal address (add as many lines as necessary)
 address:
