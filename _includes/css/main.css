@@ -330,7 +330,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #2C3E50;
+    color: #C9BCE3;
 }
 
 footer h3 {
@@ -355,7 +355,7 @@ footer .footer-below {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #2C3E50;
+    border: 2px solid #C9BCE3;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
