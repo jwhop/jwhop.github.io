@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2017-06-17
+img: bloom1gif.gif
+thumb: bloomgifcropped.gif
+alt: image-alt
+project-date: June 2017
+description: This experimental art game made in Unity was my first project with the software. Play as a Jellyfish searching for another the same color as you! I did not create the models used. Related Media - <a href="https://jwhop.itch.io/bloom">Release Page</a>
+
+---

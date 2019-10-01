@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2017-06-17
+img: tetris1.gif
+thumb: tetris1.gif
+alt: image-alt
+project-date: June 2017
+description: This Discord bot implementation of Tetris has a catch the pieces fall very, very slowly. Work together as a server to keep the game from overflowing! Credit to @Sam_c_lee for the original tetris implementation. My roles in this group project included concept, bot creation and server-side implementation, and improvements to Tetris code. 
+
+---
