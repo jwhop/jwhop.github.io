@@ -170,7 +170,16 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
 }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: black; /*BACKGROUND color for active*/
+background-color: #0000000;
+}
 
+  .navbar-default {
+    background-color: #00000;
+    border-color: #0000000;
+}
 section {
     padding: 100px 0;
 }
