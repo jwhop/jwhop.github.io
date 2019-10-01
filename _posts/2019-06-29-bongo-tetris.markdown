@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2014-07-18
+date: 2017-06-17
 img: bongo_gif.gif
 alt: penguin_cropped.gif
 thumb: bongo_cropped.gif
