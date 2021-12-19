@@ -86,16 +86,11 @@ switch(pageName){
     break;
   
   case '/index.html':
-    console.log("on home page");
     modelPath = '../models/skull.fbx';
     break;
   
   case '/trackball.html':
-    modelPath = '../models/trackball.fbx';
-  break;
-
-  case '/trackball.html':
-    modelPath = '../models/trackball.fbx';
+    modelPath = '../models/Trackball.fbx';
   break;
 
   case '/climbing.html':
