@@ -41,6 +41,7 @@ loader.load( '../models/tv.fbx', function ( object ) {
     tv.position.x = 50;
     tv.scale.set(1.5,1.5,1.5);
     scene.add( object );
+    addSkull();
 } );
 
 loader.load( '../models/joystick.fbx', function ( object ) {
@@ -102,24 +103,8 @@ switch(pageName){
     break;
     
 }
-loader.load( modelPath, function ( object ) {
-  skull = object;
-  object.traverse( function ( child ) {
-      if ( child.isMesh ) {
-          child.castShadow = true;
-          child.receiveShadow = true;
-      }
-  } );
-  skull.scale.set(0.35,0.35,0.35);
-  skull.position.y = 85;
-  skull.position.z = 55;
-  if( modelPath == '../models/skull.fbx') {
-    skull.children[0].material[1]= new THREE.MeshBasicMaterial({
-      map: SkullTexture
-    })
-  }
-  tv.add( object );
-} );
+
+
 
 const light1 = new THREE.PointLight(0xffffff, 2, 0);
 light1.position.set(200, 100, 300);
@@ -162,3 +147,24 @@ function animate(time) {
 }
 
 requestAnimationFrame(animate);
+
+function addSkull(){
+  loader.load( modelPath, function ( object ) {
+    skull = object;
+    object.traverse( function ( child ) {
+        if ( child.isMesh ) {
+            child.castShadow = true;
+            child.receiveShadow = true;
+        }
+    } );
+    skull.scale.set(0.35,0.35,0.35);
+    skull.position.y = 85;
+    skull.position.z = 55;
+    if( modelPath == '../models/skull.fbx') {
+      skull.children[0].material[1]= new THREE.MeshBasicMaterial({
+        map: SkullTexture
+      })
+    }
+    tv.add( object );
+  } );
+}

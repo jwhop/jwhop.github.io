@@ -31,14 +31,48 @@
 		<a href="./index.html" class="back-button"> back</a>
 	</div>	
     <div class="game-content">
-        <div style="margin-top: 100px;">
-            <blockquote class="twitter-tweet"><p lang="en" dir="ltr">HEYO, it’s me and @sam_c_lee with <a href="https://twitter.com/hashtag/gameaweek2017?src=hash&amp;ref_src=twsrc%5Etfw">#gameaweek2017</a> . I was doing some travelling all week so for my take on this week’s theme, “physics engine”, I made a project I’ve been wanting to for awhile! <br><br>Presenting, a rock climbing hangboard controller to play <a href="https://twitter.com/celeste_game?ref_src=twsrc%5Etfw">@celeste_game</a>! <a href="https://t.co/ae6k3casRH">pic.twitter.com/ae6k3casRH</a></p>&mdash; jonny hopkins🕹 (@jwhopkin) <a href="https://twitter.com/jwhopkin/status/1177105176186052608?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
+        <iframe  src="https://www.youtube.com/embed/JLMBHnpc-Po" style="margin-top: 100px; padding: 50px; min-height: 50%; max-height: 100%; min-width: 50%; max-width: 100%">
+        
+        </iframe>
+
         <div class="game-desc">
-            <p  class="game-text"style="color: black;">Done as a part of a rapid prototyping exercise, this hangboard controller was made with An arduino uno, arduino nano, bluetooth modules, a supersonic sensor, and capacitive touch. <br>
-            <br> Related Media:
+            <p  class="game-text"style="color: black;">Hangboard Controller is a custom physical interface 
+				emulating a Nintendo Switch controller that was developed to play EXOK's "Celeste". 
+				The custom hangboard controller works through custom-flashed arduino firmware, an arduino sketch, 
+				capacitive touch, ultrasonic data, and bluetooth. First, the controller is set up to have a number of 
+				capacitive touch buttons, with paperclips used to detect touch. Additionally, an ultrasonic sensor is 
+				set up above the hangboard to determine when I do a pull-up. The Arduino sketch on the Arduino Nano reads 
+				in ultrasonic data, to see if I am doing a pull-up, as well as capacitive touch data, to see which buttons
+				 I am holding. It would then relay these inputs over to the Arduino Uno through bluetooth connection. 
+				 The Arduino Uno sketch would take this bluetooth input and write it to serial, where a custom-flashed
+				  firmware would emulate a wired switch controller, sending controller inputs through USB connected to my switch. 
+
+				<br>
+				<br>
+				Project used a fork of <a href="https://github.com/wchill/SwitchInputEmulator">@wchill 's Nintendo Switch HORIPAD emulator repository on Github </a> and was developed over the course of a week.
+			
+			<br>
+			<br>Project Materials - Hardware
+			<ul>
+				<li>1 Arduino Uno</li>
+				<li>1 Arduino Nano</li>
+				<li>2 x HC-05 Bluetooth Module</li>
+				<li>1 x HC-SR04 Ultrasonic Sensor</li>
+				<li>Breadboard + Wires + Resistors - various</li>
+				<li>Soldering Iron</li>
+				<li>Paperclips</li>
+				<li>Tape</li>
+				<li>Climbing Hangboard</li>
+				<li>Chalk</li>
+				<li>Projector</li>
+			</ul>
+			<br><br> Year: 2019
+			<br><br> Medium: Software, Electronics, Hangboard, Projector
+            <br> <br> Related Media:
             <br><a  class="game-text"href="https://gonintendo.com/stories/345623-celeste-played-using-a-custom-rock-climbing-hangboard-controller">GoNintendo Article</a>
             <br><a  class="game-text"href="https://www.nintendoenthusiast.com/2019/09/27/celeste-rock-climbing-wall/?utm_source=dlvr.it&amp;utm_medium=twitter">Nintendo Enthusiast Article</a>
+            <br><a  class="game-text"href="https://www.youtube.com/watch?v=XVCHNa_nkRk">Freeplay 2020 Talk</a>
+			</p>
         </div>
     </div>
     
