@@ -6,7 +6,6 @@ description: "a description"
 tags: ["Weird Input", "Procedural Animation", "Touch Screen", "3D Models", "Installation", "Class Assignment", "Animals", "Favorite","Game"]
 ---
 
-
 <div class="window max-w-full">
   <div class="title-bar">
     <div class="title-bar-text">We Are All Ants</div>
@@ -104,7 +103,9 @@ function openTab(event, tab) {
 </script>
 
 <div class="window mt-10 relative max-w-full grow">
-    <h1 class="title-bar" style="height:30px;">Gallery</h1>
+    <h1 class="title-bar" style="height:30px;">
+      <div class="title-bar-text">Gallery</div>
+    </h1>
 <div class="window-body">
 {{< gallery >}}
   <img src="./ants1.jpg" class="grid-w40" />

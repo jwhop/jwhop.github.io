@@ -8,7 +8,7 @@ tags: ["Plunderludic", "Installation", "Mario","Game", "Portfolio"]
 
  <div class="window max-w-full">
    <div class="title-bar">
-     <div class="title-bar-text">We Are All Ants</div>
+     <div class="title-bar-text"> Mario Tag </div>
      <div class="title-bar-controls">
        <!-- <button aria-label="Minimize"></button>
        <button aria-label="Maximize"></button>

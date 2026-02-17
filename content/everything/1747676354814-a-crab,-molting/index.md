@@ -1,7 +1,7 @@
 ---
 title: "a crab, molting"
 date: 2023-11-23
-draft: false
+draft: true
 description: "a description"
 tags: ["Class Assignment", "Animals", "3D Models","Game"]
 ---
