@@ -116,7 +116,6 @@ tags: ["Game", "Puzzle", "Tetris", "Portfolio"]
    <img src="./ChesstrisGif3.gif" class="grid-w33 md:grid-w33 xl:grid-w25" />
    <img src="./ChesstrisImage1.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
    <img src="./ChesstrisImage2.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
-   <img src="./TBAAOSC3.jpg" class="grid-w33 md:grid-w33 xl:grid-w25" />
  {{< /gallery >}}
  </div>
  </div>
