@@ -105,7 +105,7 @@ tags: ["Custom Controller", "Tetris", "Favorite"]
  {{< gallery >}}
    <img src="./featured.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
    <img src="./2.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
-   <img src="./3.jpg" class="grid-w33 md:grid-w33 xl:grid-w25" />
+   <img src="./fixed3.jpg" class="grid-w33 md:grid-w33 xl:grid-w25" />
  {{< /gallery >}}
  </div>
  </div>

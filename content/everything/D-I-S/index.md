@@ -106,7 +106,7 @@ tags: ["Portfolio", "Favorite", "Shaders", "Commercial", "Unity"]
  {{< gallery >}}
    <img src="./featured.gif" class="grid-w33 md:grid-w33 xl:grid-w25" />
    <img src="./orderednoise2.gif" class="grid-w33 md:grid-w33 xl:grid-w25" />
-   <img src="./IMG_4472.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
+   <img src="./fixedConcertLarge.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
    <img src="./dis2.jpg" class="grid-w33 md:grid-w33 xl:grid-w25" />
  {{< /gallery >}}
  </div>
