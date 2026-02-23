@@ -3,7 +3,7 @@ title: "We Are All Ants"
 date: 2023-05-31
 draft: false
 description: "a description"
-tags: ["Weird Input", "Procedural Animation", "Touch Screen", "3D Models", "Installation", "Class Assignment", "Animals", "Favorite","Game"]
+tags: ["Weird Input", "Procedural Animation", "Touch Screen", "3D Models", "Installation", "Class Assignment", "Animals", "Favorite","Game", "Unity"]
 ---
 
 <div class="window max-w-full">

@@ -3,7 +3,7 @@ title: "Jungle Jym"
 date: 2024-05-17
 draft: false
 description: "a description"
-tags: ["Collab", "Procedural Animation", "Physics", "3D Models", "Shaders", "Class Assignment", "Favorite","Game", "Portfolio"]
+tags: ["Collab", "Procedural Animation", "Physics", "3D Models", "Shaders", "Class Assignment", "Favorite","Game", "Portfolio", "Unity"]
 ---
 
 

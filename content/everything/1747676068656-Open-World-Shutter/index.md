@@ -23,7 +23,8 @@ tags: ["Creative Coding", "Tool", "Portfolio"]
        <!--<button aria-selected="false" aria-controls="DevLog">DevLog</button> -->
      </menu>
      <article role="tabpanel" id="Video">
-     {{< youtubeLite id="v6TmFyTdYes" label="OWS Documentation" >}}
+     {{< youtubeLite id="T9JW30air3s" label="OWS Documentation" >}}
+     {{< youtubeLite id="rUQEKndirZ4" label="OWS Documentation" >}}
      </article>
      <article role="tabpanel" hidden id="Summary" style="color: black; font-size: 14px; font-variant: JIS04; font-family: arial;">
      <p>"Open World Shutter" is a desktop screenshotting tool to make your game captures more fun! Take screenshots with varying exposure lengths. How will you set up your shots?</p>
@@ -51,9 +52,9 @@ tags: ["Creative Coding", "Tool", "Portfolio"]
  
  ### Awards, Recognition, Showcases 
  <ul> 
-     <li> 2022, Ideal Glass Studio, New York. "Ubisoft Presents Photomode: Out There in Games" Featured work</li>
-     <li> 2023, Silent Green, Berlin. "A MAZE. BERLIN international Games and Playful Media Festival" Honorable Mention</li>
-     <li> 2025, New York, New York. "Screenshot Conf" Featured Talk</li>
+     <li> 2022, Ideal Glass Studio, New York. <a target="_blank" href="https://web.archive.org/web/20230714084438/https://photomode-ubisoft.com/en/">"Ubisoft Presents Photomode: Out There in Games"</a> Featured work</li>
+     <li> 2023, Silent Green, Berlin. <a target="_blank" href="https://2023.amaze-berlin.de/nominees/">"A MAZE. BERLIN international Games and Playful Media Festival"</a> Honorable Mention</li>
+     <li> 2025, New York, New York. <a target="_blank" href="https://www.are.na/cristobal-sciutto/screenshot-conf">"Screenshot Conf"</a> Featured Talk</li>
  </ul>
      </article>
      <article role="tabpanel" hidden id="DevLog"  style="color: black; font-size: 14px; font-variant: JIS04; font-family: arial;">

@@ -3,7 +3,7 @@ title: "Chesstris 2000"
 date: 2021-08-02
 draft: false
 description: "a description"
-tags: ["Game", "Puzzle", "Tetris", "Portfolio"]
+tags: ["Game", "Puzzle", "Tetris", "Portfolio", "Unity"]
 ---
 <div class="window max-w-full">
    <div class="title-bar">
