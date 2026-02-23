@@ -24,17 +24,7 @@ tags: ["Custom Controller", "Tetris", "Favorite"]
      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BongoTris <a href="https://x.com/jwhopkin/status/1106355000437960704"></a></p>&mdash; jonny hopkins🕹 (@jwhopkin) <a href="https://twitter.com/jwhopkin/status/1106355000437960704">March 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
      </article>
      <article role="tabpanel" hidden id="Summary" style="color: black; font-size: 14px; font-variant: JIS04; font-family: arial;">
-     <p>Hangboard Controller is a custom physical interface 
-    emulating a Nintendo Switch controller that was developed to play EXOK's "Celeste". 
-    The custom hangboard controller works through custom-flashed arduino firmware, an arduino sketch, 
-    capacitive touch, ultrasonic data, and bluetooth. </p>
-    <p>First, the controller is set up to have a number of 
-    capacitive touch buttons, with paperclips used to detect touch. Additionally, an ultrasonic sensor is 
-    set up above the hangboard to determine when I do a pull-up. The Arduino sketch on the Arduino Nano reads 
-    in ultrasonic data, to see if I am doing a pull-up, as well as capacitive touch data, to see which buttons
-        I am holding. It would then relay these inputs over to the Arduino Uno through bluetooth connection. 
-        The Arduino Uno sketch would take this bluetooth input and write it to serial, where a custom-flashed
-        firmware would emulate a wired switch controller, sending controller inputs through USB connected to my switch. </p>
+     <p>BongoTris is a custom controller adapting a set of Donkey Kong bongos to be compatible with the nintendo switch for playing Tetris 99. [This was before Nintendo added functionality for the remapping gamecube-compatible controllers with the switch]. My technical implementation involved finding a program online that reads gamecube controller inputs for visualizing them on twitch streams, and plugging that in to a custom HID USB project that runs on Arduino.</p>
     </article>
      <article role="tabpanel" hidden id="Details"  style="color: black; font-size: 14px; font-variant: JIS04; font-family: arial;">
  <div class="flex flex-col" style="justify-content: space-between">
