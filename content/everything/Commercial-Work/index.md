@@ -104,7 +104,8 @@ tags: ["Portfolio", "Commercial", "Unreal Engine", "Unity", "three.js"]
  </script>
  
  <div class="window mt-10 relative max-w-full grow">
-     <h1 class="title-bar" style="height:30px;">Gallery</h1>
+     <h1 class="title-bar" style="height:30px;">      <div class="title-bar-text">Gallery</div>
+</h1>
  <div class="window-body">
  {{< gallery >}}
    <img src="./1.png" class="grid-w33 md:grid-w33 xl:grid-w25" />
